@@ -54,7 +54,7 @@
      <widget class="QWidget" name="widget" native="true">
       <layout class="QVBoxLayout" name="verticalLayout">
        <item>
-        <widget class="AgeGraphWidget" name="graphWidget1" native="true">
+        <widget class="AgeGraphWidget" name="ageGraphWidget" native="true">
          <property name="sizePolicy">
           <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
            <horstretch>0</horstretch>
@@ -70,7 +70,7 @@
         </widget>
        </item>
        <item>
-        <widget class="AgeRegionGraphWidget" name="graphWidget2" native="true">
+        <widget class="AgeRegionGraphWidget" name="ageRegionGraphWidget" native="true">
          <property name="sizePolicy">
           <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
            <horstretch>0</horstretch>
